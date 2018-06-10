@@ -1,2 +1,2 @@
 # capstone_udacity
-working through https://github.com/Kairos-Automotive/carla-brain  
+working through setup for https://github.com/Kairos-Automotive/carla-brain  
